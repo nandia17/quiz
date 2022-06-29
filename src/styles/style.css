@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Hubballi&family=Roboto+Condensed:wght@300&display=swap');
+
+* {
+    font-family: 'Hubballi', cursive;
+}
+.container {
+/* background-color: aqua; */
+height: 800px;
+width: 1024px;
+margin: 30px;
+padding: 10px;
+
+
+border: 1px solid rgba(0,0,0,0.2);
+} 
+.title {
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 20px;
+    font-size: 40px;
+    border-radius: 5px;
+    text-align: center;
+
+}
+
+.questions {
+    border: 1px solid rgba(0,0,0,0.2);
+    padding: 15px;
+    margin-top: 5px;
+    border-radius: 5px;
+    text-align: center;
+
+
+}
+
+.question {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.btnAnswer{
+    background-color: aquamarine;
+    /* border: none; */
+    font-size: 24px;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 10px;
+
+}
